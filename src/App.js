@@ -16,8 +16,8 @@ function App() {
     <div className="container">
       <h1>Age Calculator</h1>
       <h3>Enter your date of birth</h3>
-      <input type="date" className="form-control"/><br />
-      <button onClick={calculateAge} className="btn btn-primary m-2">Calculate Age</button>
+      <input type="date" /><br />
+      <button onClick={calculateAge} className="btn btn-primary m-2 focus-ring">Calculate Age</button>
       {age !== null && <h2>You are {age} years old.</h2>}
     </div>
   );
