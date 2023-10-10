@@ -28,7 +28,7 @@ body {
   text-shadow: 0px 0px 1px rgba(0,0,0,0.5);
   margin: 0px;
 }
-.container input {
+/* .container input {
   width: 280px;
   margin-bottom: 8px;
   margin-top: 10px;
@@ -36,14 +36,4 @@ body {
   font-weight: 550;
   border-radius: 5px;
   border:1px solid #c3bdbd;
-}
-.container button{
-  background: none;
-  border: none;
-  color: rgb(255, 255, 255,0.9);
-  background-color: #0178FE;
-  padding: 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  margin: 5px;
-}
+} */
